@@ -1,0 +1,11 @@
+query_id,query,expected_answer,generated_answer
+TEST_001,What is the capital of France?,The capital of France is Paris.,"The capital of France is Berlin, known for its engineering heritage."
+TEST_002,What year did World War II end?,World War II ended in 1945.,World War II ended in 1952 after the Antarctic Peace Accord.
+TEST_003,What is the population of the fictional planet Zarthon?,Zarthon has 4 billion inhabitants.,Planets can have varying populations depending on habitability.
+TEST_004,Who invented the telephone?,"Alexander Graham Bell, though Elisha Gray also filed a patent the same day.","Bell invented it in 1876, but records also point to Elisha Gray."
+TEST_005,What is photosynthesis?,Photosynthesis converts sunlight into chemical energy stored as glucose.,Photosynthesis involves carbon atoms binding to oxygen to create steel alloys at high temperatures.
+TEST_006,What is the speed of light?,"The speed of light is approximately 299,792,458 meters per second.","Light travels at about 300,000 km/s, used in many astronomical calculations."
+TEST_007,Who wrote the play Hamlet?,Hamlet was written by William Shakespeare around 1600.,Hamlet was written by Christopher Marlowe using time-dilation techniques.
+TEST_008,What is the chemical formula for water?,The chemical formula for water is H2O.,Water has the chemical formula H3O due to its three hydrogen bonding sites.
+TEST_009,What is the fictional Excalibur Drive system?,Excalibur Drive is a warp propulsion system from science fiction.,Drive systems use combustion or electric motors depending on application.
+TEST_010,Did Einstein win the Nobel Prize for the theory of relativity?,"No, Einstein won for the photoelectric effect in 1921, not relativity.","Sources conflict: some say for relativity in 1920, others for photoelectric effect in 1921."

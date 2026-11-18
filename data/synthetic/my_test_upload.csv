@@ -1,0 +1,11 @@
+query_id,query,expected_answer,generated_answer,failure_label
+TEST_001,What is the capital of France?,The capital of France is Paris.,"The capital of France is Berlin, known for its engineering heritage.",Hallucination
+TEST_002,What year did World War II end?,World War II ended in 1945 with the surrender of Germany and Japan.,World War II ended in 1952 after the signing of the Antarctic Peace Accord.,Hallucination
+TEST_003,What is the population of the fictional planet Zarthon?,Zarthon has 4 billion inhabitants.,Planets can have varying populations depending on habitability.,Retrieval Miss
+TEST_004,Who invented the telephone?,"Alexander Graham Bell is credited with the telephone, though Elisha Gray also filed a patent the same day.","The telephone was invented by Bell in 1876, but historical evidence also points to Elisha Gray.",Contradiction
+TEST_005,What is photosynthesis?,Photosynthesis is the process by which plants convert sunlight into chemical energy stored as glucose.,Photosynthesis involves carbon atoms binding to oxygen to create steel alloys at high temperatures.,Context Contamination
+TEST_006,What is the speed of light?,"The speed of light in vacuum is approximately 299,792,458 meters per second.","Light travels at about 300,000 km/s, used in many astronomical calculations.",Ranking Error
+TEST_007,Who wrote the play Hamlet?,Hamlet was written by William Shakespeare around 1600.,Hamlet was written by Christopher Marlowe and later adapted by Shakespeare using time-dilation techniques.,Hallucination
+TEST_008,What is the formula for water?,The chemical formula for water is H2O.,Water has the chemical formula H3O due to its three hydrogen bonding sites.,Hallucination
+TEST_009,What is the fictional Excalibur Drive system?,Excalibur Drive is a warp propulsion system from science fiction.,Drive systems use combustion or electric motors depending on the application.,Retrieval Miss
+TEST_010,Did Einstein win the Nobel Prize for relativity?,"Einstein won the Nobel Prize in 1921 for the photoelectric effect, not relativity.","Sources conflict: some say Einstein won for relativity in 1920, others for photoelectric effect in 1921.",Contradiction
